@@ -1,2 +1,2 @@
 # devsnest-lesson-one
- Take home assignment at Devsnest (Day-01, Front-end track)
+ Take home assignment at Devsnest (Day 1-3, Front-end track)
